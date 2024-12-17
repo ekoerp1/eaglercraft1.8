@@ -1,33 +1,4 @@
-# EaglercraftX Replit Archive
-
-
-Hi everyone!
-
-First, please go buy Minecraft.
-
-
----
-
-
-Ok, done? Now we can proceed...
-
-This repository contains a slimmed-down archive of the eaglercraftx (1.8) replit project. It is missing a few things; namely:
-- eula.txt and server jar deleted from server folder
-- selsrv.sh exits early, because:
-- misc folder removed due to containing jars that I cannot with 100% certainty distribute
-
-This repository **DOES NOT** contain ANYTHING that can be reasonably DMCA'd.
-
-
----
-
-## original readme:
-
----
-
 # EaglercraftX
-
-
 #### smashed together by [ayunami2000](https://github.com/ayunami2000)
 ##### and [EaglercraftX](https://gitlab.com/lax1dude/eaglercraftx-1.8) developed by [lax1dude](https://github.com/lax1dude)
 
